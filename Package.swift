@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "WanaKanaMSFork",
+    name: "WanaKana",
     products: [
         .library(
             name: "WanaKana",
